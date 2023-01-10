@@ -13,7 +13,10 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-  [📝 License](#license)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
@@ -43,6 +46,20 @@ Example commands:
 - GitHub: [@fuadmoin](https://github.com/fuadmoin)
 - Twitter: [@Fuad01804580](https://twitter.com/Fuad01804580)
 - LinkedIn: [Fuad Moin](https://www.linkedin.com/in/fuad-moin-a7b126259/)
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+⭐️ Show your support <a name="support"></a>
+
+If you like this project please consider leaving a review.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my coding partner @AJ193 for motivating and helping me.
 
 ## 📝 License <a name="license"></a>
 
