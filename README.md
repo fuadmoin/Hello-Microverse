@@ -13,6 +13,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
+  [📝 License](#license)
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
@@ -20,7 +21,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-.HTML and CSS
+HTML and CSS
 
 ### Setup
 
@@ -43,6 +44,8 @@ Example commands:
 - Twitter: [@Fuad01804580](https://twitter.com/Fuad01804580)
 - LinkedIn: [Fuad Moin](https://www.linkedin.com/in/fuad-moin-a7b126259/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
