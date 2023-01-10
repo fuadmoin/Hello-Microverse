@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -15,11 +14,7 @@
   - [Setup](#setup)
 - [👥 Authors](#authors)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Hello Microverse] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** is a simple html project containing one header.
 
@@ -40,11 +35,7 @@ Example commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
