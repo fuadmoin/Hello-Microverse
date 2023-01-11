@@ -26,6 +26,8 @@
 
 HTML and CSS
 
+## 💻 Getting Started <a name="getting-started"></a>
+
 ### Setup
 
 Clone this repository to your desired folder:
