@@ -18,9 +18,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is a simple html project containing one header.
+**Hello Microverse** is a simple html project containing one header.
 
 ## 🛠 Built With <a name="built-with"></a>
 
